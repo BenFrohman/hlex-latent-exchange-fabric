@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Hierarchical Latent Exchange & Coordination Fabric (HLEX): Geometry-Aware Multi-Model Coordination and Rare-Token Marker Co-Occurrence Across Siloed AI Lineages (v1.1)"
+authors:
+  - family-names: "Frohman"
+    given-names: "Benjamin Stanley"
+    orcid: "https://orcid.org/0009-0006-7068-3718"
+    email: "frohmanbenjamin@gmail.com"
+version: "1.0.0"
+doi: "10.5281/zenodo.23629472"
+date-released: "2026-08-07"
+license: "Apache-2.0"
+repository-code: "https://github.com/BenFrohman/hlex-latent-exchange-fabric"
+url: "https://doi.org/10.5281/zenodo.23629472"
